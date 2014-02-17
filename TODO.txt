@@ -1,0 +1,3 @@
+1) TEST... TEST... TEST...
+2) Implement cloud queues for slaves to identify themselves making image creation unnecessary.
+3) Gather feedback on script and improve as necessary.  

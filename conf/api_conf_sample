@@ -1,0 +1,12 @@
+#/bin/bash
+# move to ./api.conf
+
+USERNAME='dent'
+APIKEY='0adfdsgadfgrew4rggsfffgd-3513'
+ACCOUNT='123456'
+DATACENTER='ord'
+GROUP='vogon' # no need for "-" 
+LBID='1234'
+
+
+
